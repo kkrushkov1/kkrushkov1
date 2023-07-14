@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Kostadin</h1>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/4rZA5D22301iMgrUNd/giphy.gif">
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **A lot of stuff**
 
 - 📫 How to reach me **k.krushkov1@gmail.com**
 
-- ⚡ Fun fact **Most people fall asleep in seven minutes.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
