@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Kostadin</h1>
+<h1 align="center">Hi 👋, I'm Kostadin, a youngster with many interests, striving to escape the ordinary.. </h1>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/4rZA5D22301iMgrUNd/giphy.gif">
 
-- 🌱 I’m currently learning **A lot of stuff**
+-  I’m currently learning **Solidity**
 
 - 📫 How to reach me **k.krushkov1@gmail.com**
 
